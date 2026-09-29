@@ -1,0 +1,201 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Старт на новия сезон 2026/2027",
+      "text": "ФК Левски 2000 Русе се върна с две победи от Батин. U15 с 8:2 победи Черноломец Попово , а U16 с 2:1 ",
+      "image": "",
+      "date": "2026-09-26",
+      "category": "Академия"
+    }
+  ],
+  "matches": [],
+  "teams": {
+    "U16": [
+      {
+        "id": "p1",
+        "number": "10",
+        "name": "Кристиян Петров",
+        "position": "НАП",
+        "birthYear": "2010",
+        "photo": "",
+        "height": "178",
+        "weight": "68",
+        "foot": "десен",
+        "joinedDate": "2022-09-01",
+        "stats": {
+          "matchesPlayed": 18,
+          "goals": 14,
+          "assists": 6,
+          "yellowCards": 2,
+          "redCards": 0,
+          "minutesPlayed": 1520,
+          "rating": 8.6
+        },
+        "achievements": [
+          "Голмайстор U15 2024",
+          "MVP Турнир Русе"
+        ],
+        "notes": "Много силен с дясно. Работи върху завършващ удар с ляво. Лидер в съблекалнята.",
+        "birth": "2010"
+      },
+      {
+        "id": "p2",
+        "number": "1",
+        "name": "Алекс Иванов",
+        "position": "ВР",
+        "birthYear": "2010",
+        "photo": "",
+        "height": "182",
+        "weight": "74",
+        "foot": "десен",
+        "joinedDate": "2021-08-15",
+        "stats": {
+          "matchesPlayed": 16,
+          "goals": 0,
+          "assists": 1,
+          "yellowCards": 1,
+          "redCards": 0,
+          "minutesPlayed": 1440,
+          "rating": 8.1
+        },
+        "achievements": [
+          "Най-добър вратар 2024"
+        ],
+        "notes": "Отличен рефлекс, добра игра с крака.",
+        "birth": "2010"
+      },
+      {
+        "id": "p3",
+        "number": "8",
+        "name": "Мартин Георгиев",
+        "position": "ХЛФ",
+        "birthYear": "2010",
+        "photo": "",
+        "height": "174",
+        "weight": "62",
+        "foot": "двата",
+        "joinedDate": "2022-01-10",
+        "stats": {
+          "matchesPlayed": 19,
+          "goals": 4,
+          "assists": 11,
+          "yellowCards": 3,
+          "redCards": 0,
+          "minutesPlayed": 1680,
+          "rating": 8.4
+        },
+        "achievements": [
+          "Най-много асистенции"
+        ],
+        "notes": "Мозъкът на отбора. Двукрак.",
+        "birth": "2010"
+      },
+      {
+        "id": "p4",
+        "number": "9",
+        "name": "Даниел Стоянов",
+        "position": "НАП",
+        "birthYear": "2011",
+        "photo": "",
+        "height": "176",
+        "weight": "66",
+        "foot": "ляв",
+        "joinedDate": "2023-03-01",
+        "stats": {
+          "matchesPlayed": 15,
+          "goals": 9,
+          "assists": 2,
+          "yellowCards": 0,
+          "redCards": 0,
+          "minutesPlayed": 980,
+          "rating": 7.9
+        },
+        "achievements": [],
+        "notes": "Бърз, работи върху физика.",
+        "birth": "2011"
+      }
+    ],
+    "U15": [],
+    "U14": [],
+    "U13": [],
+    "U12": [],
+    "U11": [],
+    "U10": [],
+    "U9": [],
+    "U8": []
+  },
+  "staff": [
+    {
+      "id": "s1",
+      "name": "Цоню Кюранов",
+      "role": "Президент",
+      "description": "Основател и ръководител на академията от 2000 година.",
+      "photo": ""
+    },
+    {
+      "id": "s2",
+      "name": "Лъчезар Стефанов",
+      "role": "Треньор U16",
+      "description": "Отговаря за U16, набор 2020. Лиценз UEFA C.",
+      "photo": ""
+    },
+    {
+      "id": "s3",
+      "name": "Васил Миронов",
+      "role": "Треньор U15, U14",
+      "description": "Отговаря за U15 и U14. Методика за развитие на техника.",
+      "photo": ""
+    },
+    {
+      "id": "s4",
+      "name": "Михаил Божинов",
+      "role": "Треньор U13, U12",
+      "description": "Отговаря за U13, U12. Фокус върху групова тактика.",
+      "photo": ""
+    },
+    {
+      "id": "s5",
+      "name": "Александър Иванов",
+      "role": "Треньор U9, U8",
+      "description": "Отговаря за набор 2016, 2017 (U9, U8). Начално обучение.",
+      "photo": ""
+    },
+    {
+      "id": "s6",
+      "name": "Димитър Лазаров",
+      "role": "Треньор на вратарите",
+      "description": "Специализирана работа с вратарите от всички формации.",
+      "photo": ""
+    }
+  ],
+  "media": [
+    {
+      "id": "m1",
+      "type": "image",
+      "url": "",
+      "title": "Тренировка U16"
+    },
+    {
+      "id": "m2",
+      "type": "image",
+      "url": "",
+      "title": "Мач на стадиона в Русе"
+    },
+    {
+      "id": "m3",
+      "type": "image",
+      "url": "",
+      "title": "Отборна снимка U12"
+    },
+    {
+      "id": "m4",
+      "type": "image",
+      "url": "",
+      "title": "Турнир Русе 2025"
+    }
+  ],
+  "trainings": [],
+  "timestamp": "2026-09-29T08:31:25.471Z",
+  "version": 2
+}
